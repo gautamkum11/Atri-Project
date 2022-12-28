@@ -1,0 +1,39 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/Home": {
+      "name": "Home"
+    },
+    "/service": {
+      "name": "service"
+    },
+    "/projects": {
+      "name": "projects"
+    },
+    "/blogs": {
+      "name": "blogs"
+    },
+    "/product designer": {
+      "name": "product designer"
+    },
+    "/education": {
+      "name": "education"
+    },
+    "/gk": {
+      "name": "gk"
+    },
+    "/faq": {
+      "name": "faq"
+    },
+    "/last": {
+      "name": "last"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "..\\assets"
+  },
+  "organizationName": "gautamkum11",
+  "projectName": "Atri-Project"
+}

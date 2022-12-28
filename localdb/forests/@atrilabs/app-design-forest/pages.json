@@ -1,0 +1,38 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/Home"
+  },
+  "59811a9f-0067-4bf9-b7e7-192cd0f22476": {
+    "name": "service",
+    "route": "/service"
+  },
+  "68ec7d07-7d78-48bd-960a-db05252e36f2": {
+    "name": "projects",
+    "route": "/projects"
+  },
+  "67a5bc29-6942-4b60-b213-a3defa7a04c7": {
+    "name": "blogs",
+    "route": "/blogs"
+  },
+  "a404b2dd-2754-4bfc-9d93-9eff26918952": {
+    "name": "product designer",
+    "route": "/product designer"
+  },
+  "bfa70d76-5d46-42c8-83d0-f6a64f4a17b5": {
+    "name": "education",
+    "route": "/education"
+  },
+  "dd7366b8-9a26-4047-864f-8ded89878fc7": {
+    "name": "gk",
+    "route": "/gk"
+  },
+  "4368925e-9acd-4282-bb7c-c3840c913199": {
+    "name": "faq",
+    "route": "/faq"
+  },
+  "7bfeb9c0-622f-49f1-b55f-3907ac7a95d0": {
+    "name": "last",
+    "route": "/last"
+  }
+}

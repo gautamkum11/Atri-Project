@@ -1,0 +1,79 @@
+.p-product designer.Div12 {
+height: 100%;
+}
+.p-product designer.Flex62 {
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-between;
+margin-left: 120px;
+margin-right: 77px;
+padding-top: 40px;
+align-content: center;
+}
+.p-product designer.Flex63 {
+display: flex;
+flex-direction: column;
+}
+.p-product designer.Flex64 {
+display: flex;
+margin-left: 120px;
+margin-right: 77px;
+justify-content: space-between;
+height: 500px;
+width: ;
+padding-top: 50px;
+}
+.p-product designer.Flex65 {
+display: flex;
+}
+.p-product designer.Flex66 {
+display: flex;
+}
+.p-product designer.Flex67 {
+display: flex;
+flex-direction: column;
+width: 30%;
+justify-content: space-between;
+}
+.p-product designer.Flex68 {
+display: flex;
+width: 100%;
+}
+.p-product designer.Flex69 {
+display: flex;
+}
+.p-product designer.TextBox72 {
+width: 50%;
+font-family: IBM Plex Sans;
+font-weight: 100;
+align-self: center;
+font-size: 18px;
+}
+.p-product designer.TextBox73 {
+padding-bottom: 10px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 20px;
+}
+.p-product designer.TextBox74 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 40px;
+}
+.p-product designer.Image42 {
+height: ;
+width: ;
+}
+.p-product designer.Image43 {
+width: ;
+}
+.p-product designer.Image45 {
+width: 100%;
+height: 240px;
+padding-top: ;
+}
+.p-product designer.Image47 {
+height: 240px;
+width: 100%;
+padding-bottom: ;
+}
